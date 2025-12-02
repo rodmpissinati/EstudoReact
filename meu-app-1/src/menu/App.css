@@ -1,0 +1,29 @@
+.nav{
+    background-color: green;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    color: aliceblue;
+  
+    
+}
+
+.navTittle{
+    display: flex;
+    text-align: center;
+    margin-left: 0.5rem;
+}
+
+.navUl{
+    list-style: none;
+    display: flex;
+    
+    
+
+}
+
+.navLinks{
+    padding: 1rem 3em 0rem 0;
+    color: white;
+    
+}
